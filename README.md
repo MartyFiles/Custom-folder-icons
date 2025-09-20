@@ -1,6 +1,7 @@
 <div align="center">
 
 ### Файлы для установки кастомных папок через WinClean.
+#
 
 ![Описание изображения](https://i.ibb.co/rRzp3Gy9/7-F02-C57-C-DB8-D-463-D-A286-62-C4-FF1-F636-D.png)
 
